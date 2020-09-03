@@ -1,0 +1,60 @@
+.calendar {
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 0 15px;
+  padding: 20px 0;
+  overflow-x: auto;
+}
+.calendar-day {
+  flex: 0 0 300px;
+  margin: 0 0 15px;
+  text-align: center;
+  margin: 0 10px;
+}
+.calendar-day-label span {
+  background: #bae8e8;
+  border-radius: 4px;
+  color: #272343;
+  display: inline-block;
+  font-weight: bold;
+  padding: 4px 8px;
+}
+.calendar-event {
+  align-items: flex-start;
+  /* background: #e3f6f5; */
+  border-radius: 4px;
+  display: flex;
+  height: 200px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 0 10px;
+  padding: 8px 14px;
+}
+
+.calendar-event-info {
+  flex-grow: 1;
+  flex-basis: 82%;
+  line-height: 54px;
+  color: #003f3f;
+  background: #ffffffab;
+}
+.calendar-event-time {
+  font-size: 1.2em;
+}
+.calendar-event-delete-button {
+  appearance: none;
+  background: rgb(255, 91, 91) (248, 74, 74);
+  border: 0;
+  cursor: pointer;
+
+  font-size: 18px;
+}
+.calendar-event-image input {
+  height: 25px;
+}
+
+.calendar-event-image img {
+  width: 300px;
+  height: 200px;
+  background-size: cover;
+}

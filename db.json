@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "title": "Learning Redux",
+      "dateStart": "2020-08-29T19:00:28.652Z",
+      "dateEnd": "2020-08-29T20:00:28.652Z",
+      "id": 3,
+      "image": "https://picsum.photos/304/201"
+    },
+    {
+      "title": "Create an event",
+      "dateStart": "2020-08-27T09:50:07.137Z",
+      "dateEnd": "2020-08-27T09:50:13.312Z",
+      "id": 5,
+      "image": "https://picsum.photos/300/202"
+    },
+    {
+      "title": "Finished this Project",
+      "dateStart": "2020-08-30T10:27:06.494Z",
+      "dateEnd": "2020-08-30T10:27:09.836Z",
+      "id": 6,
+      "image": "https://picsum.photos/300/203"
+    },
+    {
+      "title": "Create an event",
+      "dateStart": "2020-08-27T09:50:07.137Z",
+      "dateEnd": "2020-08-27T09:50:13.312Z",
+      "id": 7,
+      "image": "https://picsum.photos/300/204"
+    },
+    {
+      "title": "Image Loading",
+      "dateStart": "2020-09-03T06:46:10.607Z",
+      "dateEnd": "2020-09-03T06:46:13.692Z",
+      "id": 8,
+      "image": "https://picsum.photos/300/200"
+    },
+    {
+      "title": "Wowowowo",
+      "dateStart": "2020-09-03T07:14:41.822Z",
+      "dateEnd": "2020-09-03T07:14:44.133Z",
+      "id": 9,
+      "image": "https://picsum.photos/301/200"
+    }
+  ]
+}
